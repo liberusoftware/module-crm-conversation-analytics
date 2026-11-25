@@ -2,7 +2,7 @@
   "name": "crm-conversation-analytics",
   "display_name": "CRM Conversation Analytics",
   "description": "Conversation metrics, coaching, scorecards and trends",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "category": "capability",
   "provider": "Liberu\\CRM\\ConversationAnalytics\\ConversationAnalyticsServiceProvider",
   "requires": {
